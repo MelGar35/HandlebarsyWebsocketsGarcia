@@ -1,0 +1,18 @@
+[
+	{
+		"title": "sahumo akasha",
+		"description": "de lavanda y romero",
+		"categoria": "Sahumos",
+		"price": "1200",
+		"stock": "10",
+		"id": 1
+	},
+	{
+		"title": "porta sahumo",
+		"description": "de ceramica",
+		"categoria": "sahumos",
+		"price": "2500",
+		"stock": "5",
+		"id": 2
+	}
+]
